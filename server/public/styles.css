@@ -1,3 +1,7 @@
+html {
+  background-color: darkcyan;
+}
+
 body {
   font-family: sans-serif;
 }
@@ -8,7 +12,12 @@ body {
 }
 
 header {
+  color: antiquewhite;
   text-align: center;
+}
+
+footer {
+  color: antiquewhite;
 }
 
 .team {
